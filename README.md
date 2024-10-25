@@ -8,8 +8,8 @@ Documentation to introduce developers to new tools and concepts. I wrote these t
 
 ## Programming References
 Complete function and method references for multiple programming languages. I maintained and updated these, adding new functions with every new version.
-* DAQmx VI Reference (online)
-* DAQmx C Reference (online)
+* [DAQmx VI Reference](https://www.ni.com/docs/en-US/bundle/ni-daqmx-labview-api-ref/page/lvdaqmx/palmain.html)
+* [DAQmx C Reference](https://www.ni.com/docs/en-US/bundle/ni-daqmx-c-api-ref/page/cdaqmx/help_file_title.html)
 
 These references were also installed with the software in CHM format for offline viewing. Dropbox links for copies:
 * [DAQmx VI Reference](https://www.dropbox.com/scl/fi/82t0ryk0nvgpv8nbi3oe0/lvdaqmx.chm?rlkey=tnwq4g8xw7xg17km0knu8o3zj&st=mqh4k5mx&dl=0)
