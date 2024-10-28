@@ -16,7 +16,7 @@ These references were also installed with the software in CHM format for offline
 * [DAQmx C Reference](https://www.dropbox.com/scl/fi/j8ufqs5fa2c44ks18u9ho/lciviref.chm?rlkey=xolvi8fwjiogm8n2f70hmyr3u&st=bd1cx1fm&dl=0)
 
 ## User Documentation
-Not all users are developers. These are a few topics I've written introducing new concepts and how to use them.
+Not all users are developers, but still need technical documentation. These are a few topics I've written introducing new concepts and discussing how to use them.
 * [Category Merchandising](https://docs.monetate.com/docs/category-merchandising)
 * [Behavioral Triggers](https://docs.monetate.com/docs/create-a-behavioral-triggers-extract)
 
