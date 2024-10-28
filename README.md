@@ -27,7 +27,7 @@ Hardware manuals come with a different set of considerations such as specificati
 
 ## Programming Projects
 I also enjoy writing code from time to time, especially when I can make something to help efficiency. This repository contains the code of one such project:
-* [Checklist Generator](https://github.com/brownerikc/checklist-generator)
+* [Checklist Generator](https://brownerikc.github.io/checklist-generator/)
 
 ## Contact
 * [brown.erik.c@gmail.com](mailto:brown.erik.c@gmail.com)
