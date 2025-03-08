@@ -25,6 +25,11 @@ Hardware manuals come with a different set of considerations such as specificati
 * [PXIe-1086DC User Manual and Specifications](https://www.dropbox.com/scl/fi/iztahslx95efe4arpt9o7/PXIe-1086DC-UM.pdf?rlkey=qkcjdtigilgxgf2fwe9zjal9k&st=zlsezk7c&dl=0)
 * [PXIe-1086DC Safety Information](https://www.dropbox.com/scl/fi/hrxdm6cxbizhupdngo6lo/1086DCseri.pdf?rlkey=nxk2pypuhyxwbjxq0shfpgmbw&st=crmm2y82&dl=0)
 
+## Diataxis Exercise
+A personal project to learn and apply the Diataxis principles of documentation. For this, I wrote about a mechanic in the game Oxygen Not Included.
+* [Heat Management in Oxygen Not Included](https://brownerikc.github.io/ONIdiataxis/HeatManagement.html)
+* [Readme](https://brownerikc.github.io/ONIdiataxis/)
+
 ## Programming Projects
 I also enjoy writing code from time to time, especially when I can make something to help efficiency. This repository contains the code of one such project:
 * [Checklist Generator](https://brownerikc.github.io/checklist-generator/)
